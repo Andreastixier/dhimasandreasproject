@@ -23,6 +23,4 @@ This project analyzes 149,000+ coffee shop transaction records using Microsoft E
 - Generated insights to optimize product bundling and increase average order value
 
 ## 📷 Dashboard Preview
-<p align="center">
-  <img src="Coffee Shop Sales Performance Analysis Project/Dashboard Screenshot.png" width="800">
-</p>
+![Coffee Dashboard](Coffee Shop Sales Performance Analysis Project/Dashboard Screenshot.png)
